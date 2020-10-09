@@ -1,5 +1,7 @@
-#Heading#
-Some description
-##heading 2#
-some more description
+#Heading
 
+*Some description*
+
+##Heading 2
+
+*some more description*
