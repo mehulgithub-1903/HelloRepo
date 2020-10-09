@@ -1,4 +1,4 @@
-#Heading
+# heading
 
 *Some description*
 
